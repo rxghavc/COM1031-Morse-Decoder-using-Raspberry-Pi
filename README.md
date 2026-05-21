@@ -1,4 +1,4 @@
-# COM1031 — Morse Decoder using Raspberry Pi
+# COM1031 - Morse Decoder using Raspberry Pi
 
 This embedded systems project implements a fully functional Morse Code decoder using a Raspberry Pi Pico and various hardware components including a 7-segment display, buzzer, RGB LED, button, and potentiometer. The system interprets Morse inputs and outputs corresponding characters in real time.
 
